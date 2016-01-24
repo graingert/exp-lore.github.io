@@ -85,7 +85,7 @@ function comicannon(options) {
       }
       // Get frames for date
       filename = contentDir + date + ".json";
-      var setFrames = $.getJSON(filename)
+      var setFrames = $.getJSON( filename, function(data) {})
         .done(function(data) {
           frames = data.frames;
           // Initialise basic graphics
@@ -94,7 +94,7 @@ function comicannon(options) {
           initFrames(frames);
         })
         .fail(function() {
-          console.error('Failed to fetch comic for this date.');
+          console.error('Failed to fetch comic for date: ' + date);
           $("#frame0").html('Move along people, nothing to see here.');
         });
     });
