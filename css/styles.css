@@ -1,0 +1,26 @@
+body {
+  font-family: 'Helvetica';
+}
+
+table.fixed {
+  table-layout: fixed;
+  word-break: normal;
+}
+
+table.fixed td {
+  font-family: 'Helvetica';
+  font-size: 10pt;
+  overflow: auto;
+  padding-top: 0px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 1px;
+  line-height: 10pt;
+}
+
+#disclaimer {
+  font-size: 7pt;
+  font-family: 'Helvetica';
+  font-style: italic;
+  color: lightgrey;
+}

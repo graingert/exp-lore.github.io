@@ -1,0 +1,42 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        "<i>EXP Lore - Tales of the Starship Exploration XP</i>"
+      ],
+      "items": [
+        {
+          "name": "spaceship",
+          "x": 120,
+          "y": 190,
+          "scale": 0.3
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "<i>The ship is run by Starfleets finest, led by a unique group of commanders that know that in space nothing can stand in the way of progress.</i>",
+        "<i>Not even reason.</i>"
+      ],
+      "items": [
+        {
+          "name": "spaceship",
+          "x": 130,
+          "y": 60,
+          "scale": 0.5
+        }
+      ]
+    },
+    {
+      "textlines": [],
+      "items": [
+        {
+          "name": "banana",
+          "x": 130,
+          "y": 10,
+          "scale": 0.2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "disclaimer": "All characters appearing in this work are fictitious. Any resemblance to real persons, living or dead, is purely coincidental. The story, all names, characters, and incidents portrayed in this comic are fictitious. No identification with actual persons, places, buildings, and products is intended or should be inferred. No person or entity associated with this comic received payment or anything of value, or entered into any agreement or connection with the depiction of tobacco products or starships. No animals were harmed in the making of this comic. Star Trek and related properties are Registered Trademarks of Paramount Pictures and CBS. No infringement of Paramount's copyrights is intended.",
+  "availableItems": {
+    "spaceship": {
+      "environment": "space",
+      "displayType": "image",
+      "path": "http://www.startrekgoodies.com/graphics/Voyager.png"
+    },
+    "banana": {
+      "environment": "space",
+      "displayType": "image",
+      "path": "http://pngimg.com/upload/banana_PNG826.png"
+    }
+  }
+}

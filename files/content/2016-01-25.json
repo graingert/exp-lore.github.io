@@ -1,0 +1,43 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        "- Why on earth did we redesign the ship to look like a banana?"
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 120,
+          "y": 190,
+          "scale": 0.05
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- It was decided in the last space exploration standardisations meeting. Not sure why, most people fell asleep before the end. Word is that one of the ship's cats stepped all over someones laptop and accidentally replaced 'Hull design for WARP' with 'banana'."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 130,
+          "y": 100,
+          "scale": 0.1
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- I'm gonna slide down to deck 3."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 130,
+          "y": 10,
+          "scale": 0.2
+        }
+      ]
+    }
+  ]
+}

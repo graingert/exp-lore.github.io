@@ -1,0 +1,52 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>EXP Lore</title>
+  <meta name="description" content="Tales of the starship Exploration XP">
+  <meta name="author" content="">
+
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="http://code.jquery.com/jquery-2.2.0.js"></script>
+
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+  <table id="holder">
+    <tr>
+      <td><canvas id="canvas" width="900" height="300"></td>
+    <tr>
+      <table id="texts" class="fixed" width="900">
+        <col width="300px" />
+        <col width="300px" />
+        <col width="300px" />
+        <tr>
+          <td id="frame0"></td>
+          <td id="frame1"></td>
+          <td id="frame2"></td>
+        </tr>
+      </table>
+    </tr>
+    <tr>
+      <td><p id='disclaimer'></p></td>
+    </tr>
+  </table>
+  <script src="js/fabric.js"></script>
+  <script src="js/comicannon.js"></script>
+  <script type="text/javascript">
+    options = {
+      x0: 0,
+      y0: 0,
+      frameWidth: 300,
+      frameHeight: 300,
+    }
+
+    comicannon(options);
+  </script>
+</body>
+</html>
