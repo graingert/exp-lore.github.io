@@ -57,6 +57,10 @@
 
     // Get date from page URL
     urlDate = $.getUrlVar('date');
+    if (typeof(urlDate) === "undefined") {
+      // Set to today's date
+      urlDate = new Date().toJSON().slice(0,10);
+    }
     today = new Date(urlDate);
     // Minus one day
     today.setDate(today.getDate() - 1);
