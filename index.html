@@ -20,6 +20,7 @@
   <table id="holder">
     <tr>
       <td><canvas id="canvas" width="900" height="300"></td>
+    </tr>
     <tr>
       <table id="texts" class="fixed" width="900">
         <col width="300px" />
@@ -30,6 +31,11 @@
           <td id="frame1"></td>
           <td id="frame2"></td>
         </tr>
+        <tr>
+          <td><p id="previous"></p></td>
+          <td></td>
+          <td><p id="next"></p></td>
+        </tr>
       </table>
     </tr>
     <tr>
@@ -39,14 +45,29 @@
   <script src="js/fabric.js"></script>
   <script src="js/comicannon.js"></script>
   <script type="text/javascript">
-    options = {
-      x0: 0,
-      y0: 0,
-      frameWidth: 300,
-      frameHeight: 300,
-    }
+    var urlDate, splitDate, today, tomorrow, yesterday,
+      options = {
+        x0: 0,
+        y0: 0,
+        frameWidth: 300,
+        frameHeight: 300,
+      }
 
     comicannon(options);
+
+    // Get date from page URL
+    urlDate = $.getUrlVar('date');
+    today = new Date(urlDate);
+    // Minus one day
+    today.setDate(today.getDate() - 1);
+    // Convert to date only format
+    yesterday = today.toJSON().slice(0,10);
+    // Plus two days
+    today.setDate(today.getDate() + 2);
+    tomorrow = today.toJSON().slice(0,10);
+    // Add links
+    $("#previous").html("<a href='index.html?date=" + yesterday + "' class='direction'>[previous]</a>");
+    $("#next").html("<a href='index.html?date=" + tomorrow + "' class='direction'>[next]</a>");
   </script>
 </body>
 </html>

@@ -24,3 +24,14 @@ table.fixed td {
   font-style: italic;
   color: lightgrey;
 }
+
+.direction {
+  font-size: 8pt;
+  font-weight: bold;
+  color: gray;
+  text-decoration: none;
+}
+
+#next {
+  text-align: right;
+}

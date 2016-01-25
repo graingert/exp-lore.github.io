@@ -95,7 +95,7 @@ function comicannon(options) {
         })
         .fail(function() {
           console.error('Failed to fetch comic for date: ' + date);
-          $("#frame0").html('Move along people, nothing to see here.');
+          $("#frame0").html("There's nothing here. Yet.");
         });
     });
   }
