@@ -16,6 +16,7 @@ table.fixed td {
   padding-right: 5px;
   padding-bottom: 1px;
   line-height: 10pt;
+  vertical-align: top;
 }
 
 #disclaimer {
