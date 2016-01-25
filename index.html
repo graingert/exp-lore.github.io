@@ -59,9 +59,11 @@
     urlDate = $.getUrlVar('date');
     if (typeof(urlDate) === "undefined") {
       // Set to today's date
-      urlDate = new Date().toJSON().slice(0,10);
+      today = new Date();
+    } else {
+      // Set to URL date
+      today = new Date(urlDate);
     }
-    today = new Date(urlDate);
     // Minus one day
     today.setDate(today.getDate() - 1);
     // Convert to date only format
