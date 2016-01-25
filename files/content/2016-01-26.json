@@ -1,0 +1,44 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        "- Sir, we seriously need to reconsider the banana design. We may go to places where no banana has gone before, and according to our calculations, the ship will begin to peel at WARP 3."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 120,
+          "y": 130,
+          "scale": 0.1
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- Ensign, I don't want to hear this kind of negativity from you. It's not a banana, it's a space ship!"
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 110,
+          "y": 160,
+          "scale": 0.15
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- Sir, have you even looked at the ship from the outside? It totally looks like a banana.",
+        "- I pay people to do that, and they all tell me it looks fine. A bit yellow, perhaps, but that's just the solar flares or whatever."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 130,
+          "y": 180,
+          "scale": 0.25
+        }
+      ]
+    }
+  ]
+}
