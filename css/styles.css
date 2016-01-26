@@ -33,6 +33,10 @@ table.fixed td {
   text-decoration: none;
 }
 
+#previous {
+  text-align: left;
+}
+
 #next {
   text-align: right;
 }
