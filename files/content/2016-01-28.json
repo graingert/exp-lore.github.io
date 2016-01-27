@@ -1,0 +1,47 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        "- We have to stop this madness, and turn us back into a real ship again.",
+        "- I agree! You are absolutely right. Getting some cat consultants on board is a great idea.",
+        "- ..."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 80,
+          "y": 100,
+          "scale": 0.1
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- That's not what I said...",
+        "- Sure you did, you just didn't know how to phrase it properly. I took care of that for you. Oh, and I just announced it to the bridge on your behalf."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 110,
+          "y": 100,
+          "scale": 0.125
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- What do cat consultants even do?",
+        "- They build cat based neural networks. The input is cat food, and the output is cats stepping over keyboards. It's genious."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 110,
+          "y": 100,
+          "scale": 0.15
+        }
+      ]
+    }
+  ]
+}
