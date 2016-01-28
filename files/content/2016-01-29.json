@@ -1,0 +1,43 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        "- The purpose of our cat neural network is to further improve our ship design."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 70,
+          "y": 150,
+          "scale": 0.1
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- It requires cats, carefully distributed doses of cat food, and enough keyboards for the cats to walk comfortably across."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 110,
+          "y": 150,
+          "scale": 0.1
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- Our new cat consultant will fine tune their movements and ensure that the future design changes to our ship will be as successful as the banana incident."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 190,
+          "y": 150,
+          "scale": 0.1
+        }
+      ]
+    }
+  ]
+}
