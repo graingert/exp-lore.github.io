@@ -4,12 +4,26 @@
     "spaceship": {
       "environment": "space",
       "displayType": "image",
-      "path": "http://www.startrekgoodies.com/graphics/Voyager.png"
+      "itemType": "ship",
+      "path": "files/images/voyager.png"
     },
     "banana": {
       "environment": "space",
       "displayType": "image",
-      "path": "http://pngimg.com/upload/banana_PNG826.png"
+      "itemType": "ship",
+      "path": "files/images/banana.png"
+    },
+    "bananaBrowned": {
+      "environment": "space",
+      "displayType": "image",
+      "itemType": "ship",
+      "path": "files/images/banana.png"
+    },
+    "medivac": {
+      "environment": "space",
+      "displayType": "image",
+      "itemType": "ship",
+      "path": "files/images/medivac.png"
     }
   }
 }
