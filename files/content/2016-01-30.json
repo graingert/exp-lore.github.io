@@ -1,0 +1,62 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        "- Docking bay 34 is prepared. Initiating docking sequence with vessel 37895."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 50,
+          "y": 50,
+          "scale": 0.4
+        },
+        {
+          "name": "medivac",
+          "x": 55,
+          "y": 55,
+          "scale": 0.15
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- We need to clear up decks 11 through 18 for this shipment.",
+        "- What?! Why? What can possibly require that much space?"
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 50,
+          "y": 50,
+          "scale": 0.4
+        },
+        {
+          "name": "medivac",
+          "x": 75,
+          "y": 75,
+          "scale": 0.18
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- Cats. The cat neural network consultant ordered millions of them. The keyboards they will walk on are arriving early next week."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 50,
+          "y": 50,
+          "scale": 0.4
+        },
+        {
+          "name": "medivac",
+          "x": 105,
+          "y": 105,
+          "scale": 0.2
+        }
+      ]
+    }
+  ]
+}
