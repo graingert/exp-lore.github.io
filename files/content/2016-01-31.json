@@ -1,0 +1,45 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        "- I expected millions of cats to take an eternity to get on board. How'd they manage to get it done so soon?",
+        "- The cat consultant used the latest feline compression technology, and a massive pipe. We had to knock out a few sliding doors."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 50,
+          "y": 50,
+          "scale": 0.2
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- I hope this will give us some answers.",
+        "- Answers to what question?"
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 90,
+          "y": 90,
+          "scale": 0.3
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- What does the cat say?"
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 120,
+          "y": 120,
+          "scale": 0.4
+        }
+      ]
+    }
+  ]
+}
