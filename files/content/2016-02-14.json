@@ -1,0 +1,45 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        "- What's up with the cats? They keep making noises, it's actually making it hard to sleep. The banana walls are not very good at sound insulation."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 50,
+          "y": 50,
+          "scale": 0.2
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- They're starting to go blind, due to lack of taurin in their food. The food they ordered was some cheap knock-off that replaced taurin with sugar.",
+        "- It's wreaking havoc in the neural network. They were previously just walking around randomly, as cats do. Now they're walking around blindly, apparently this cuts right through the cat consultants network planning."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 90,
+          "y": 90,
+          "scale": 0.3
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- How's the consultant holding up?",
+        "- We're on our third this week. Incidentally, we are running out of escape pods."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 120,
+          "y": 120,
+          "scale": 0.4
+        }
+      ]
+    }
+  ]
+}

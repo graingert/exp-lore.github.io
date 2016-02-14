@@ -1,0 +1,43 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        ""
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 50,
+          "y": 50,
+          "scale": 0.2
+        }
+      ]
+    },
+    {
+      "textlines": [
+        ""
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 90,
+          "y": 90,
+          "scale": 0.3
+        }
+      ]
+    },
+    {
+      "textlines": [
+        ""
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 120,
+          "y": 120,
+          "scale": 0.4
+        }
+      ]
+    }
+  ]
+}
