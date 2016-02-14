@@ -95,7 +95,7 @@ function comicannon(options) {
         })
         .fail(function() {
           console.error('Failed to fetch comic for date: ' + date);
-          $("#frame0").html("There's nothing here. Yet.");
+          $("#frame0").html("<img src='files/images/sadCat.jpg'>");
         });
     });
   }
