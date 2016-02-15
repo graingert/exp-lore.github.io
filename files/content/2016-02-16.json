@@ -1,0 +1,43 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        "- The order is still being shipped, and someone decided to stop feeding the cats. They didn't anticipate the fact that some cats eat banana, and these ones <b>love</b> it. They have already chewed their way through two decks."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 50,
+          "y": 50,
+          "scale": 0.2
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- Whatever for? Cats can't eat fruit, it makes them sick."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 90,
+          "y": 90,
+          "scale": 0.225
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- The expectation here is that whatever comes out will just be a luxury version of banana. Just like Kopi Luwak is made from coffee beans parsed by a cat's digestive system, this may be next big thing in banana smoothies."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 120,
+          "y": 120,
+          "scale": 0.25
+        }
+      ]
+    }
+  ]
+}

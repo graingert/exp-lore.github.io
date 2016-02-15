@@ -1,0 +1,44 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        "- We have ordered 50 000 cans of Power King. The taurin will help save the cats from blindness and heart failure."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 50,
+          "y": 50,
+          "scale": 0.2
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- Never heard of that before. Isn't it supposed to be Red Bull?",
+        "- It's the same thing, just a different brand. Power King took the first leap into the space age ages ago, and they have a distribution network spanning two solar systems by now."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 90,
+          "y": 90,
+          "scale": 0.3
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- Turns out you don't need wings in space."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 120,
+          "y": 120,
+          "scale": 0.4
+        }
+      ]
+    }
+  ]
+}
