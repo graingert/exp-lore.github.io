@@ -1,0 +1,43 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        "- You can't have a perfect system. You have to tolerate some deviations."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 50,
+          "y": 50,
+          "scale": 0.2
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- I'm not asking for perfection! I'm just asking for these cats to be fed properly. They've grown so hungry that they have eaten the wall between the toilets and the mess hall where we eat our lunch and dinner! Nothing is private anymore."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 90,
+          "y": 90,
+          "scale": 0.225
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- We've always talked about breaking down walls between teams. This must be what we meant."
+      ],
+      "items": [
+        {
+          "name": "banana",
+          "x": 120,
+          "y": 120,
+          "scale": 0.25
+        }
+      ]
+    }
+  ]
+}
