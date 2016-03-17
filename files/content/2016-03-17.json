@@ -1,0 +1,43 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        "- I think we're now seeing one of the downsides of this particular design choice."
+      ],
+      "items": [
+        {
+          "name": "bananaBrowned",
+          "x": 50,
+          "y": 50,
+          "scale": 0.2
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- Isn't oxygen supposed to be rather lacking in space?"
+      ],
+      "items": [
+        {
+          "name": "bananaBrowned",
+          "x": 90,
+          "y": 90,
+          "scale": 0.225
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- All bananas go bad. Not with a thousand cats can you stop that process."
+      ],
+      "items": [
+        {
+          "name": "bananaBrowned",
+          "x": 120,
+          "y": 120,
+          "scale": 0.25
+        }
+      ]
+    }
+  ]
+}
