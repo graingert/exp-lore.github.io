@@ -1,0 +1,45 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        "- I think the coffee machine's schema is too restrictive.",
+        "- You mean crema, right?"
+      ],
+      "items": [
+        {
+          "name": "bananaBrowned",
+          "x": 50,
+          "y": 50,
+          "scale": 0.2
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- No, I mean schema! I bet there's some slow-as-a-dog SQL server backing it: It doesn't accept milk powder in the bean grinder.",
+        "- That doesn't make it slow. Also, why would you put milk in the grinder?"
+      ],
+      "items": [
+        {
+          "name": "bananaBrowned",
+          "x": 90,
+          "y": 90,
+          "scale": 0.225
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- It should accept any input. We must upgrade it to run on MongoDB."
+      ],
+      "items": [
+        {
+          "name": "bananaBrowned",
+          "x": 120,
+          "y": 120,
+          "scale": 0.25
+        }
+      ]
+    }
+  ]
+}
