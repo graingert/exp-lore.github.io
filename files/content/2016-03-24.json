@@ -1,0 +1,43 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        "- What's that noise? The cats again?"
+      ],
+      "items": [
+        {
+          "name": "bananaBrowned",
+          "x": 50,
+          "y": 50,
+          "scale": 0.2
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- Yes, they're trying to connect the coffee machine to the cat neural network There's just so much data coming out of it, and I'm not sure we're ever going to need to look at it again."
+      ],
+      "items": [
+        {
+          "name": "bananaBrowned",
+          "x": 90,
+          "y": 90,
+          "scale": 0.225
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- Good thing we're using MongoDB then."
+      ],
+      "items": [
+        {
+          "name": "bananaBrowned",
+          "x": 120,
+          "y": 120,
+          "scale": 0.25
+        }
+      ]
+    }
+  ]
+}
