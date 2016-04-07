@@ -1,0 +1,43 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        "- I'm thinking of becoming a web developer. I'll be working mainly in Web 2.oh shit!"
+      ],
+      "items": [
+        {
+          "name": "bananaBrowned",
+          "x": 50,
+          "y": 50,
+          "scale": 0.2
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- I won't be using cutting edge technologies - instead I will use shooting-yourself-in-the-foot technologies."
+      ],
+      "items": [
+        {
+          "name": "bananaBrowned",
+          "x": 90,
+          "y": 90,
+          "scale": 0.225
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- And we're leaving bleeding edge behind. Now it's all about bleeding out."
+      ],
+      "items": [
+        {
+          "name": "bananaBrowned",
+          "x": 120,
+          "y": 120,
+          "scale": 0.25
+        }
+      ]
+    }
+  ]
+}
