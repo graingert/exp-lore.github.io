@@ -1,0 +1,43 @@
+{
+  "frames": [
+    {
+      "textlines": [
+        "- Do you know what developers eat?"
+      ],
+      "items": [
+        {
+          "name": "bananaBrowned",
+          "x": 50,
+          "y": 50,
+          "scale": 0.2
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- What?"
+      ],
+      "items": [
+        {
+          "name": "bananaBrowned",
+          "x": 90,
+          "y": 90,
+          "scale": 0.225
+        }
+      ]
+    },
+    {
+      "textlines": [
+        "- C food with XOR sauce."
+      ],
+      "items": [
+        {
+          "name": "bananaBrowned",
+          "x": 120,
+          "y": 120,
+          "scale": 0.25
+        }
+      ]
+    }
+  ]
+}
